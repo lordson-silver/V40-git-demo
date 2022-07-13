@@ -1,7 +1,3 @@
 # V40-git-demo
 
-## ADDED DEVELOPEMENT BRANCH
-
-## Pushing to DEV
-
-## New Commit
+Testing my changes, thank you.
