@@ -1,6 +1,6 @@
 # V40-git-demo
 
-This the git demo for the preparation of the voyage 40 in [Chingu](https://chingu.io)
+This is the git demo for the preparation of the voyage 40 in [Chingu](https://chingu.io)
 # this is the file i modified 
 
 Make some changes
