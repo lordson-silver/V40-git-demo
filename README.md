@@ -14,11 +14,12 @@ This project includes:
 
 ***
 ## Contributors
-- Lordson Silver 
-- Aryse Gabrielle Pagano
-- SamJay
-- Jay
-- Gene Lorenz Sarmiento
+- [Lordson Silver](https://github.com/lordson-silver)
+- [Aryse Gabrielle Pagano](https://github.com/Medic1111)
+- [SamJay](https://github.com/SamJay321)
+- [Jay](https://github.com/jaykasiphat)
+- [Gene Lorenz Sarmiento](https://github.com/genelorenzSarmiento0408)
+- [Brent](https://github.com/Brentskofield)
 
 *+ if you're a contributor, you can add your name here*
 ***
