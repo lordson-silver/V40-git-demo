@@ -18,4 +18,5 @@ Working on my first git team
 ### LETS CONFLICT, SHALL WE?
 
 =]
+### fetch or not to fetched?
 
