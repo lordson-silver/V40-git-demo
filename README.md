@@ -13,6 +13,14 @@ Make some changes
 
 Working on my first git team
 
+ Sam
+
+
+
+
+
+Trying to help me get better
+
 Working on my first git team
 
 ### LETS CONFLICT, SHALL WE?
@@ -20,3 +28,4 @@ Working on my first git team
 =]
 ### fetch or not to fetched?
 
+ DEVELOPMENT
