@@ -36,8 +36,7 @@ _+ if you're a contributor, you can add your name here_
 
 ### Unfixed the changes lol
 
-> > > > > > > 19108767dec18c9ab0601d33d94e75445ba1ea3a
-> > > > > > > This is the git demo for the preparation of the voyage 40 in [Chingu](https://chingu.io)
+This is the git demo for the preparation of the voyage 40 in [Chingu](https://chingu.io)
 
 ---
 
@@ -52,10 +51,6 @@ _+ if you're a contributor, you can add your name here_
 2. Open that folder on your IDE (VS Code, Atom, etc...)
 
 3. Open the integrated terminal
-
-Working on my first git team
-
-> > > > > > > 19108767dec18c9ab0601d33d94e75445ba1ea3a
 
 4. run `git clone <url> `
 
@@ -98,5 +93,7 @@ Trying to help me get better
 =]
 
 ### fetch or not to fetched?
+
+Working on my first git team
 
 DEVELOPMENT
