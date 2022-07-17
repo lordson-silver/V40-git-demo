@@ -16,17 +16,17 @@ This is the git demo for the preparation of the voyage 40 in [Chingu](https://ch
 
 3. Open the integrated terminal
 
-4. run `git clone _url_ `
+4. run `git clone <url> `
 
 5. The project should now be there
 
-6. run ` cd _project name_`
+6. run ` cd <project name>`
 
 ---
 
 ### Creating a branch
 
-7. At this point, if you run `git branch` you will see the branches available: main; The \* shows which branch you are on. You should create your _working branch_ by running ` git branch _name-your-branch_`
+7. At this point, if you run `git branch` you will see the branches available: main; The \* shows which branch you are on. You should create your _working branch_ by running ` git branch <name-your-branch>`
 
 8. If you run `git branch` you should now see your newly created branch listed, but if you notice, you are not on it yet, to go to your branch, run ` git checkout _your-branch-name_`
 
@@ -34,4 +34,18 @@ This is the git demo for the preparation of the voyage 40 in [Chingu](https://ch
 
 10. CODE ALL YOU WANT =)
 
-### Pushing your branch to Github
+---
+
+### Commiting changes
+
+11. When done coding, you must save your changes. It's good habit to first run `git status`
+
+12. You now have a list of files and directories that changed compared to the last snapshot. They are not ready to be saved (commit) though, as shown by their status showing red
+
+13. To add the to the staging area (place from where a commit can happen), run `git add <file-name>` Note: If you have many, you can add all at once by running `git add .`
+
+14. Run `git status` again and now those files should be showing in green, which means they are READY to be commited.
+
+15. To commit and finally save the changes, run ```git commit -m "<what-did-you-change-between-double-quote>"
+
+16. You changes are now saved
