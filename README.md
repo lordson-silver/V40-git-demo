@@ -1,6 +1,43 @@
 # V40-git-demo
 
-This is the git demo for the preparation of the voyage 40 in [Chingu](https://chingu.io)
+# Learning git and GitHub
+
+---
+
+## Overview
+
+**Learning by actually making mistakes, in this project we made and resolved conflict, created multiple branches and merged them to development.**
+
+---
+
+## Features
+
+This project includes:
+
+- [x] README.md
+- [x] multiple branches
+- [ ] issues
+- [ ] Atomic Commits
+
+---
+
+## Contributors
+
+- [Lordson Silver](https://github.com/lordson-silver)
+- [Aryse Gabrielle Pagano](https://github.com/Medic1111)
+- [SamJay](https://github.com/SamJay321)
+- [Jay](https://github.com/jaykasiphat)
+- [Gene Lorenz Sarmiento](https://github.com/genelorenzSarmiento0408)
+- [Brent](https://github.com/Brentskofield)
+
+_+ if you're a contributor, you can add your name here_
+
+---
+
+### Unfixed the changes lol
+
+> > > > > > > 19108767dec18c9ab0601d33d94e75445ba1ea3a
+> > > > > > > This is the git demo for the preparation of the voyage 40 in [Chingu](https://chingu.io)
 
 ---
 
@@ -16,9 +53,13 @@ This is the git demo for the preparation of the voyage 40 in [Chingu](https://ch
 
 3. Open the integrated terminal
 
+Working on my first git team
+
+> > > > > > > 19108767dec18c9ab0601d33d94e75445ba1ea3a
+
 4. run `git clone <url> `
 
-5. The project should now be there
+<<<<<<< HEAD 5. The project should now be there
 
 6. run ` cd <project name>`
 
@@ -49,3 +90,13 @@ This is the git demo for the preparation of the voyage 40 in [Chingu](https://ch
 15. To commit and finally save the changes, run ```git commit -m "<what-did-you-change-between-double-quote>"
 
 16. You changes are now saved
+
+---
+
+Sam
+Trying to help me get better
+=]
+
+### fetch or not to fetched?
+
+DEVELOPMENT
