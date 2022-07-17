@@ -78,7 +78,7 @@ This is the git demo for the preparation of the voyage 40 in [Chingu](https://ch
 
 14. Run `git status` again and now those files should be showing in green, which means they are READY to be commited.
 
-15. To commit and finally save the changes, run ```git commit -m "<what-did-you-change-between-double-quote>"
+15. To commit and finally save the changes, run `git commit -m "<what-did-you-change-between-double-quote>"`
 
 16. You changes are now saved
 
