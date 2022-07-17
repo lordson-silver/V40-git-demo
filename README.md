@@ -34,8 +34,6 @@ _+ if you're a contributor, you can add your name here_
 
 ---
 
-### Unfixed the changes lol
-
 This is the git demo for the preparation of the voyage 40 in [Chingu](https://chingu.io)
 
 ---
@@ -54,9 +52,7 @@ This is the git demo for the preparation of the voyage 40 in [Chingu](https://ch
 
 4. run `git clone <url> `
 
-<<<<<<< HEAD 5. The project should now be there
-
-6. run ` cd <project name>`
+5. run ` cd <project name>`
 
 ---
 
@@ -87,6 +83,12 @@ This is the git demo for the preparation of the voyage 40 in [Chingu](https://ch
 16. You changes are now saved
 
 ---
+
+---
+
+### MAKE ALL CHANGES BELOW THIS LINE =)
+
+### Unfixed the changes lol
 
 Sam
 Trying to help me get better
