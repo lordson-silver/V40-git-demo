@@ -96,6 +96,6 @@ Trying to help me get better
 
 ### fetch or not to fetched?
 
-This text is result by a conflict (see pull request [#27](https://github.com/lordson-silver/V40-git-demo/pull/27))
+This text is result by a conflict (see pull request [#27](https://github.com/lordson-silver/V40-git-demo/pull/27)) \
 Working on my first git team
 
